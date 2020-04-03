@@ -3,7 +3,7 @@
 La idea es tener una aplicación con la cual **Donadores**, puedan postear en la red **productos o servicios**. Otras personas podrán **Solicitar** algún tipo de ayuda para sí o para otras, y por su parte, **Voluntarios/as** puedan asistir a los diferentes lugares para buscar los mencionados productos o servicios.
 
 ## Contribuir
-Para contribuir mira [aquí algunos lineamientos](https://github.com/wuilliam321/yo-ayudo/blob/master/README.md)
+Para contribuir mira [aquí algunos lineamientos](https://github.com/wuilliam321/yo-ayudo/blob/master/CONTRIBUTING.md)
 
 ## Objetivos
 
@@ -66,4 +66,4 @@ Para contribuir mira [aquí algunos lineamientos](https://github.com/wuilliam321
 #### Soy un administrador que quiere aprobar voluntarios
 
 
-[Contribuir](https://github.com/wuilliam321/yo-ayudo/blob/master/README.md)
+[Contribuir](https://github.com/wuilliam321/yo-ayudo/blob/master/CONTRIBUTING.md)
