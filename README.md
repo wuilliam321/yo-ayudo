@@ -13,14 +13,15 @@ La idea es tener una aplicación con la cual un **Donador**, pueda postear en la
 
 ### Solicitar Ayuda
 
- * **Soy una persona que necesito ayuda**
+#### **Soy una persona que necesito ayuda**
  > *Estoy en una situación compleja en la que no puedo salir, y necesito algún tipo de ayuda*
    1. Quiero poder indicar que necesito ayuda
    2. Quiero indicar mis datos personales (cédula, nombres, apellidos)
    3. Quiero indicar mis datos para poder ser contactado como dirección, ubicación, teléfono
    4. Quiero poder indicar la necesidad que tengo para facilitar la ayuda que necesito
 
- * **Soy una persona que quiero pedir ayuda para otro**
+
+#### **Soy una persona que quiero pedir ayuda para otro**
  > *Tengo un vecino que esta en una situación compleja y no tiene forma de comunicarlo, quiero poder ayudarle*
    1. Quiero poder indicar que necesito registrar una ayuda para otro
    2. Quiero indicar mis datos personales (cédula, nombres, apellidos)
@@ -29,25 +30,26 @@ La idea es tener una aplicación con la cual un **Donador**, pueda postear en la
    5. Quiero poder indicar la necesidad que tiene la persona para facilitar la ayuda que necesito
 
 ### Ofrecer Ayuda/Donar (Voluntario/a)
- * **Soy una persona que quiere ser voluntario**
+
+#### **Soy una persona que quiere ser voluntario**
  > *Tengo plena disposición de ayudar a otros de la forma en la que sea posible, quiero que me contacten si es necesario*
    1. Quiero poder registrarme como voluntario
    2. Quiero indicar mis datos personales como cédula, nombres, apellidos.
    3. Quiero indicar mi ubicacion (dirección) y disponibilidad para que puedan luego buscarme (si resulta necesario).
 
- * **Soy un voluntario que quiero donar un servicio:**
+#### **Soy un voluntario que quiero donar un servicio:**
  > *Tengo experiencia como cocinero/a y considero que puedo ayudar a estas personas en situaciones complejas*
    1. Quiero registrarme como voluntario.
    3. Quiero poder indicar el servicio que quiero ofrecer.
    4. Quiero registrar detalles del servicio como nombre y descripcion
 
- * **Soy un voluntario que quiero donar un producto:**
+#### **Soy un voluntario que quiero donar un producto:**
  > *Tengo algunos productos en casa que puedo donar y no debo salir de casa, quiero que vengan a buscarlo*
    1. Quiero registrarme como voluntario.
    2. Quiero registrar detalles del producto como nombre y descripcion incialmente, luego se podrá cargar imagenes entre otros
    3. Quiero indicar mi ubicacion (dirección) para facilitar la recogida del mismo (Si corresponde)
 
- * **Soy un voluntario que quiero ir y recolectar lo donado:**
+#### **Soy un voluntario que quiero ir y recolectar lo donado:**
  > *Tengo un medio de transporte que puedo poner a disposición para buscar donaciones o personas para llevarlos donde sea necesario*
    1. Quiero registrarme como voluntario.
    2. Quiero poder indicar que tengo medio de transporte seguro para buscar lo donado.
@@ -58,4 +60,4 @@ La idea es tener una aplicación con la cual un **Donador**, pueda postear en la
 ## Casos de Uso (Administrativos)
 
 ### Usuarios
- TBD, en desarrollo
+#### Soy un administrador que quiere aprobar voluntarios
