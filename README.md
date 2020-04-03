@@ -2,6 +2,9 @@
 
 La idea es tener una aplicación con la cual **Donadores**, puedan postear en la red **productos o servicios**. Otras personas podrán **Solicitar** algún tipo de ayuda para sí o para otras, y por su parte, **Voluntarios/as** puedan asistir a los diferentes lugares para buscar los mencionados productos o servicios.
 
+## Contribuir
+Para contribuir mira [aquí algunos lineamientos](https://github.com/wuilliam321/yo-ayudo/blob/master/README.md)
+
 ## Objetivos
 
  * Brindar a las personas la opción de poder **Donar** productos y/o servicios sin moverse de su casa, para fomentar así quedarse en la misma y a su vez ayudar en un momento crítico.
@@ -61,3 +64,6 @@ La idea es tener una aplicación con la cual **Donadores**, puedan postear en la
 
 ### Usuarios
 #### Soy un administrador que quiere aprobar voluntarios
+
+
+[Contribuir](https://github.com/wuilliam321/yo-ayudo/blob/master/README.md)
