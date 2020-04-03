@@ -1,6 +1,6 @@
 # Yo Ayudo
 
-La idea es tener una aplicación con la cual un **Donador**, pueda postear en la red un **producto o servicio**. Otro tipo de personas pueden **Solicitar** algún tipo de ayuda, y por su parte, un **Voluntario** pueda asistir a los diferentes lugares a buscar el mencionado producto o servicio.
+La idea es tener una aplicación con la cual **Donadores**, puedan postear en la red un **productos o servicios**. Otras personas podrán **Solicitar** algún tipo de ayuda para sí o para otras, y por su parte, **Voluntarios/as** puedan asistir a los diferentes lugares para buscar los mencionados productos o servicios.
 
 ## Objetivos
 
